@@ -1,0 +1,20 @@
+{
+  "name": "ppcalculator",
+  "version": "1.0.0",
+  "description": "Functional test for Prepayment Privilege Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ethombra/pp-calculator.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.4.1"
+  }
+}
