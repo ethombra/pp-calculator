@@ -1,1 +1,22 @@
-{}
+{
+    "baseUrl": "https://www.ppcalculators.com/PrivilegePayment.aspx?ID=876145",
+    "env": {
+        "landingURL": "https://www.ppcalculators.com/PrivilegePayment.aspx",
+        "amortizationURL": "https://www.ppcalculators.com/amort.aspx",
+        "mortgageValues": {
+            "mortgageAmount": "400,000",
+            "interestRate": "3.5",
+            "mortgagePayment": "1,200",
+            "paymentFrequency": "Monthly",
+            "lumpSumPayment": "12000",
+            "mortgagePaymentIncrease": "10%",
+            "revisedAmortizationPeriod":"76",
+            "savings":"277,248.19"
+        },
+        "displayValues":{
+            "displayMortgageAmt":"400000",
+            "displayInterestRate":"3.5",
+            "displayMortgagePayment":"1200"
+        }
+    }
+}
